@@ -1,0 +1,1 @@
+JointUpSampling('2k-8x.png','2k-guide.png','output.png',3,8);
